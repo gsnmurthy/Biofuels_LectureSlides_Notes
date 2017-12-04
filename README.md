@@ -17,5 +17,5 @@ Professor, Biological and Ecological Engineering
 
 Oregon State University
 
-# ज्ञानं प्रसारणाय, सत्यं आत्मशुद्धये 
-# (Knowledge is for transmitting and truth is for self realization) 
+ज्ञानं प्रसारणाय, सत्यं आत्मशुद्धये 
+(Knowledge is for transmitting and truth is for self realization) 
