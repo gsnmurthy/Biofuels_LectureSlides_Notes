@@ -7,7 +7,7 @@ I have taught the biofuels feedstocks and production at Biological and Ecologica
 
 The slides and the course notes are made freely available to you with the hope that these would be useful to you for learning/teaching about biofuels and bioproducts. This is provided to you only for learning/teaching about the topic and we assume no liability of any kind for application of this knowledge. There is no substitute for working with a professional engineer when you are actually building real world applications.
 
-I hope you will enjoy learnng about this topic. Please do let me know if there are any corrections/improvements that will make these more useful to others. I will be grateful to you if you can let me know if you found them useful. 
+I hope you will enjoy learning about this topic. Please do let me know if there are any corrections/improvements that will make these more useful to others. I will be grateful to you if you can let me know if you found them useful. 
 
 Best Wishes,
 
